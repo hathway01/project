@@ -1,1 +1,1 @@
-This is my git repo.
+This is simple python based dictionary app that takes word as input and return its meaning if ts available in data along with possible matches if exact match is not found.
